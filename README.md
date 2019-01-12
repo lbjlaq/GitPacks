@@ -6,7 +6,7 @@ get signature by C#
 
 `student_id`: The individual student’s unique identifier, defined by your scho
 
-`ecture_ke`: Your school’s key, provided by GitHub.
+`secture_ke`: Your school’s key, provided by GitHub.
 
 Used together, your school can deliver each student a unique web address that looks something like this:
 
