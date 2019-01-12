@@ -22,3 +22,5 @@ https://education.github.com/student/verify?school_id=1&student_id=1&signature=b
 ### 3. 生成
 
 ### 4.打开浏览器 复制生成的链接 输入账户密码 即可获取（若已经登入 则跳过）即可获取学生包
+
+![pack](https://github.com/kriszhengs/GitPacks/blob/master/GitPack/pack.png)
